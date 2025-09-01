@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Data files
+*.pkl
+*.csv
+
+# Posters folder
+posters/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
